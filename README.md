@@ -282,13 +282,3 @@ Current Focus:
 <!-- ✏️ Add LinkedIn / Portfolio badges here once you share those URLs -->
 
 </div>
-
----
-
-<div align="center">
-
-*"Code is the closest thing we have to magic — I build systems that turn complexity into clarity."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer)
-
-</div>
