@@ -223,7 +223,7 @@ Used as a base for understanding and extending BI tooling inside the Frappe/ERPN
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=manish31-oss&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manish31-oss&theme=radical&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="165" src="https://streak-stats.demolab.com/?user=manish31-oss&theme=radical&hide_border=true&background=0d1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish31-oss&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
 
