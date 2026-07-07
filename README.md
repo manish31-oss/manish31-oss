@@ -239,15 +239,6 @@ Used as a base for understanding and extending BI tooling inside the Frappe/ERPN
 
 </div>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Contribution Heatmap](https://ghchart.rshah.org/8B5CF6/manish31-oss)
-
-</div>
 
 ---
 
