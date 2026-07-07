@@ -245,7 +245,7 @@ Used as a base for understanding and extending BI tooling inside the Frappe/ERPN
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=manish31-oss&theme=redical&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=ffffff)
+![Contribution Heatmap](https://ghchart.rshah.org/8B5CF6/manish31-oss)
 
 </div>
 
