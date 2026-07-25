@@ -1,10 +1,10 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Manish%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20%26%20Agentic%20Systems%20%7C%20ERPNext%2FFrappe%20Ecosystem&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Manish%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Product%20Manager%20%7C%20AI-Native%20Builder%20%7C%20B2B%20SaaS%20%26%20Enterprise%20%7C%20IIT%20Delhi&descAlignY=55&descSize=20)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Building+AI-Native+Developer+Tooling;MCP+Servers+%2B+Agentic+Workflows+for+Claude+Code;ERPNext+%2F+Frappe+Systems+Engineering;Open+Source+%7C+Automation+%7C+Applied+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Product+Manager+%7C+AI-Native+Builder;Shipped+ERP+%2B+Web+Platforms+at+Infinite+Locus;Built+3+Open-Source+MCP+Servers+for+Claude+Code;B2B+SaaS+%7C+Enterprise+Tech+%7C+IIT+Delhi" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,22 +24,25 @@
 
 ## 🧠 About Me
 
-I'm a **Software Engineer** building at the intersection of **agentic AI tooling**, **full-stack engineering**, and the **ERPNext/Frappe ecosystem**. My work centers on making AI systems and business platforms talk to each other reliably — MCP servers, automation pipelines, and product-engineering workflows.
+I'm a **Product Manager** who builds with AI — not just talks about it.
 
-- 🔭 I build **MCP servers and integrations** that extend Claude Code into real-world systems (mail, ERP, business tooling).
-- 🤖 Applied focus on **AI/ML engineering**: agentic workflows, LLM tool-use, and automation-first product design.
-- 🏗️ Deep hands-on experience with **ERPNext/Frappe** — customization, workflow mapping, and process automation.
-- 📈 Approach engineering with a **product mindset** — every integration ships with a clear business outcome in mind.
-- 🌱 Currently exploring **RAG pipelines**, **vector search**, and **cloud-native deployment** for agent-driven systems.
+At **Infinite Locus**, I manage product across multiple concurrent enterprise client engagements spanning e-commerce, ERP, health-tech, and marketplace domains. I own the full lifecycle: discovery, PRDs, user journey docs, stakeholder reviews, and cross-functional delivery.
+
+Outside formal PM work, I build open-source developer tooling — MCP servers that connect AI agents to real-world APIs — and AI-powered workflows that make the PM job itself faster and more rigorous.
+
+- 🚀 **Enterprise PM** — shipped ERP systems, web platforms, and client apps end-to-end at Infinite Locus
+- 🤖 **AI-native workflows** — built a 3-agent PRD pipeline (PM → CPO → Designer) and a code-grounded PRD methodology that catches false assumptions before stakeholder sign-off
+- 🔧 **Open-source builder** — published MCP servers for Zoho Mail, MS Outlook, and HackerOne API
+- 📊 **Data-driven** — SQL, Python, Power BI, ETL pipelines, and ML models; validated by real analytics projects
+- 🎓 **IIT Delhi** — B.Tech Mechanical Engineering, JEE Advanced AIR 927
 
 **Open To:**
 
 ```yaml
 Open To:
-  - Software Engineering Roles (Full-Time / Contract)
-  - AI/ML & Agentic Systems Engineering
-  - ERPNext / Frappe Implementation & Customization
-  - Open Source Collaboration
+  - Product Manager / APM Roles (Full-Time)
+  - B2B SaaS & Enterprise Tech (India)
+  - Open Source Collaboration on AI Tooling
 ```
 
 ---
@@ -168,30 +171,40 @@ Used as a base for understanding and extending BI tooling inside the Frappe/ERPN
 
 ## 💼 Experience
 
-> ✏️ **Fill in your real employer, dates, and scope of work below** — placeholders left intentionally rather than invented.
+### `Product Manager` — **`Infinite Locus`**
+**`[Start Month, Year] – Present`**
 
-### `<Job Title>` — **`<Company Name>`**
-**`<Start Date> – <End Date / Present>`**
+End-to-end product ownership across multiple concurrent enterprise client engagements — e-commerce, ERP, health-tech, and marketplace domains.
 
-`<One or two sentence description of your role and the systems you owned.>`
+- Built a 3-agent AI documentation pipeline (PM → CPO → Designer) that generates PRDs and clickable prototypes from a single brief
+- Developed a code-grounded PRD methodology — validates every product claim against real platform code before stakeholder sign-off; caught a foundational false premise that had survived multiple prior reviews
+- Shipped ERP systems, web platforms, and client apps; owned requirements, sprint planning, design handoff, and delivery
 
-- `<Bullet describing a concrete system you designed/built>`
-- `<Bullet describing measurable impact — throughput, latency, cost, adoption>`
-- `<Bullet describing collaboration or cross-functional scope>`
+`Product Management` `PRD Writing` `ERPNext/Frappe` `Saleor` `Shopify` `Claude Code`
 
-`Python` `MCP` `ERPNext/Frappe` `Claude Code`
+---
+
+### `Data Research & Automation Intern` — **`Denave India Pvt Ltd`**
+**`June 2025 – July 2025 · Noida`**
+
+Built LLM-based automation pipelines for funding research and anomaly detection across B2B technographic datasets. Automated data validation with Python and VBA.
+
+`Python` `VBA` `LLM Automation` `Data Engineering`
 
 ---
 
 ## 🏆 Achievements
 
-> ✏️ **Add your real achievements here** — none invented.
-
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| `<Recognition>` | `<Details>` |
+| JEE Advanced AIR 927 (OBC-NCL) | Top 0.5% among 200,000+ candidates · 2022 |
+| Harvard Asia Conference | Selected among delegates from 40+ countries · 2023 |
+| Foundation for Excellence Scholar | Merit-based scholarship for leadership & academics · 2022 |
+| Tata Data Visualization Program | Business scenario framing and data storytelling · 2026 |
+| MasterCard Consulting Program | Promotion optimization and data-driven decision-making · 2026 |
+| J.P. Morgan IB Job Simulation | Financial analysis and investment recommendations · 2025 |
 
 </div>
 
@@ -266,8 +279,9 @@ Current Focus:
     - Agentic AI Frameworks
     - ERPNext/Frappe BI & Reporting (Insights)
   Open To:
-    - Software Engineering Roles (Full-Time / Contract)
-    - Impactful Open Source Collaboration
+    - Product Manager / APM Roles (Full-Time)
+    - B2B SaaS & Enterprise Tech (India)
+    - Open Source Collaboration on AI Tooling
 ```
 
 ---
