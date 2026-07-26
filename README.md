@@ -292,7 +292,6 @@ Current Focus:
 
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishjdh31@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish31-oss)
-
-<!-- ✏️ Add LinkedIn / Portfolio badges here once you share those URLs -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-3ba538211/)
 
 </div>
