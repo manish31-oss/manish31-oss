@@ -291,7 +291,8 @@ Current Focus:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manishjdh31@gmail.com)
+[![Zoho Mail](https://img.shields.io/badge/Zoho_Mail-C8202C?style=for-the-badge&logo=zoho&logoColor=white)](mailto:manishiitd@zohomail.in)
 [![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manish31-oss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-kumar-3ba538211/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/manish-kumar-3ba538211/)
 
 </div>
