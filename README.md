@@ -172,7 +172,7 @@ Used as a base for understanding and extending BI tooling inside the Frappe/ERPN
 ## 💼 Experience
 
 ### `Product Manager` — **`Infinite Locus`**
-**`[Start Month, Year] – Present`**
+**`June 2026 – Present`**
 
 End-to-end product ownership across multiple concurrent enterprise client engagements — e-commerce, ERP, health-tech, and marketplace domains.
 
