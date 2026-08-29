@@ -88,6 +88,26 @@ Open To:
 ## 🚀 Featured Projects
 
 <details>
+<summary><b>🔹 geopolitics-digest — Autonomous Daily Video Digest</b></summary>
+
+<br/>
+
+A zero-maintenance GitHub Actions pipeline that every morning detects new uploads across a fixed set of YouTube channels, has Gemini watch each video and write a sourced summary, clusters the day's reporting into topics, and emails every subscriber their own personalised brief.
+
+| Category | Details |
+|---|---|
+| **Stack** | Python, GitHub Actions (cron), YouTube RSS, Gemini API, Gmail SMTP |
+| **Scale** | 5 channels, ~15 videos/run, multi-recipient personalised delivery |
+| **Performance** | Deterministic RSS diffing (no LLM guesswork on what's new), round-robin summary budget, dual-key quota rotation with a deferral net |
+| **Security** | Credentials live only in Actions secrets — a config guard rejects secret-looking keys; recipient addresses are never cross-exposed |
+| **Impact** | Replaces a daily manual "check every channel and watch" routine with a single zero-touch morning digest; `state.json` + `runs.jsonl` committed back as an audit ledger |
+| **Repository** | Private repository |
+
+Two-pass design: per-video structured summaries, then one text-only synthesis call that groups the videos by topic and orders them by how many channels covered each — with an automatic fallback to a per-channel layout if synthesis fails. Anti-hallucination throughout: RSS is the sole source of truth for new videos, every figure is quoted verbatim or omitted, and every claim carries its source link.
+
+</details>
+
+<details>
 <summary><b>🔹 zoho-mail-mcp — Zoho Mail MCP Server</b></summary>
 
 <br/>
@@ -275,6 +295,7 @@ Current Focus:
   Building:
     - MCP Servers for Claude Code (Mail, ERP integrations)
     - Custom Claude Code Skills for PM-driven Development
+    - Autonomous LLM pipelines on GitHub Actions (daily video digest)
   Exploring:
     - Agentic AI Frameworks
     - ERPNext/Frappe BI & Reporting (Insights)
